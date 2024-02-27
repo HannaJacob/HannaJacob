@@ -2,7 +2,7 @@
 <h3 align="left"> Hello, World! :vulcan_salute:</h3> 
 <h4>I'm Hanna</h4>
 
-Tenho 32 anos, moro na zona norte do Rio de Janeiro, cidade da beleza e do caos. Sou estudante de análise de dados no Senac e entusiasta de dados, fascinada pelos insights que podem proporcionar.
+Tenho 32 anos, moro na zona norte do Rio de Janeiro, cidade da beleza e do caos. Sou estudante de análise de dados no Senac, entusiasta de dados e fascinada pelos insights que podem proporcionar.
 
 <p align="left">
  <strong>Contatos:<strong>
